@@ -1,4 +1,4 @@
-#Project Documentation
+#ProjectDocumentation
 #Overview
 This project consists of four fun Python programs: a Band Name Generator, a Rock-Paper-Scissors game, a Tip Calculator, and a Treasure Island Hunt. Each program showcases different programming concepts and provides an interactive experience for users.
 
