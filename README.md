@@ -51,6 +51,3 @@ Python 3.6 or above
 No external libraries are required. All programs use Python's standard library.
 Contributing
 Feel free to fork the repository, make improvements, and submit a pull request. Contributions are always welcome!
-
-License
-This repository is licensed under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license.
