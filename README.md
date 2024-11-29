@@ -59,11 +59,3 @@ cd <repository-name>
 python <file-name>.py
 # Requirements:
 Python 3.6 or above
-No external libraries are required. All programs use Python's standard library.
-<<<<<<< HEAD
-Contributing
-Feel free to fork the repository, make improvements, and submit a pull request. Contributions are always welcome!
-=======
-# Contributing
-Feel free to fork the repository, make improvements, and submit a pull request. Contributions are always welcome!
->>>>>>> da399af22030640cd917e0b486dac2b536aa3742
